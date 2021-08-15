@@ -25,7 +25,7 @@ Cool repositories (By Hytashi)
 ------
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Hytashi&repo=CuboidUtils&theme=nord)](https://github.com/Hytashi/CuboidUtils)
 <br><br><br>
-![](https://komarev.com/ghpvc/?username=Hytashi&style=flat-square)
+![](https://komarev.com/ghpvc/?username=TheLegendOfLink3&style=flat-square)
 
 
 

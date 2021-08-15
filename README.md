@@ -3,7 +3,7 @@
 
 Informations
 ------
-| <img src="https://img.icons8.com/fluent/50/000000/crafting-table.png" height="40"/> | I am currently working on Eclazion, a Minecraft mini-games server.<br>If you want to learn more about the project: https://discord.eclazion.net/ |
+| <img src="https://cdn.discordapp.com/attachments/710559627791826955/839455569357045770/778665175313022977.png" height="40"/> | I am currently working on Eclazion, a Minecraft mini-games server.<br>If you want to learn more about the project: https://discord.eclazion.net/ |
 |--|:--|
 
 
